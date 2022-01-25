@@ -404,13 +404,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('➕Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton(' Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('Updates', url='https://t.me/Mx_Hud')
+            InlineKeyboardButton('Mᴏᴠɪᴇs', url='https://t.me/Mx_Hud')
         ], [
-            InlineKeyboardButton('stats', callback_data='stats'),
-            InlineKeyboardButton(' About', callback_data='about')
+            InlineKeyboardButton('Sᴛᴀᴛs', callback_data='stats'),
+            InlineKeyboardButton('Aʙᴏᴜᴛ', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -438,11 +437,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('Movioe Request', url='https://t.me/Movie_X_Zone'),
-            InlineKeyboardButton('Backup Group', url='https://t.me/CinemaStarHd')
-        ], [
-            InlineKeyboardButton('Back To Home', callback_data='start'),
-            InlineKeyboardButton('🔐 Close', callback_data='close_data')
+            InlineKeyboardButton('Hᴏᴍᴇ🏡', callback_data='start')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -524,8 +519,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "stats":
         buttons = [[
-            InlineKeyboardButton('👩‍🦯 Back', callback_data='start'),
-            InlineKeyboardButton('♻️', callback_data='rfrsh')
+            InlineKeyboardButton('Hᴏᴍᴇ🏡', callback_data='start')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         total = await Media.count_documents()
