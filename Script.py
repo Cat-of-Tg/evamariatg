@@ -1,9 +1,9 @@
 class script(object):
-    START_TXT = """Hᴇʏ Bʀᴏ Aᴍ Tᴢᴜʏᴜ A Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ
+    START_TXT = """**Hᴇʏ Bʀᴏ Aᴍ Tᴢᴜʏᴜ A Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ
 I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ
 Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ & Eɴᴊᴏʏ
 
-Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ мx нυ∂
+Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ мx нυ∂**
 
 """
     HELP_TXT = """𝙷𝙴𝚈 {}
