@@ -1,9 +1,9 @@
 class script(object):
-    START_TXT = """**Hᴇʏ Bʀᴏ Aᴍ Tᴢᴜʏᴜ A Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ
-I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ
-Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ & Eɴᴊᴏʏ
+    START_TXT = """<b> Hᴇʏ Bʀᴏ Aᴍ Tᴢᴜʏᴜ A Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ </b>
+<b> I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ </b>
+<b> Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ & Eɴᴊᴏʏ </b>
 
-Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ мx нυ∂**
+<b> Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ мx нυ∂ </b>
 
 """
     HELP_TXT = """𝙷𝙴𝚈 {}
@@ -11,17 +11,17 @@ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ мx нυ∂**
     ABOUT_TXT = """ɴᴀᴍᴇ : <a href='https://t.me/addstickers/sp750c68b5c46efdbac504a91b0cbd2613_by_stckrRobot'>ᴛᴢᴜʏᴜ</a>
 
     
-➥ ᴄʀᴇᴅɪᴛs : <a href='tg://settings'>ʏᴏᴜ</a>
+➥ <b>ᴄʀᴇᴅɪᴛs </b>: <a href='tg://settings'>ʏᴏᴜ</a>
 
-➥ ᴇᴅɪᴛɪɴɢ : <a href='http://t.me/cat_of_tg'>ᴄᴀᴛ ʙᴏɪ</a>
+➥ <b>ᴇᴅɪᴛɪɴɢ </b> : <a href='http://t.me/cat_of_tg'>ᴄᴀᴛ ʙᴏɪ</a>
 
-➥ ᴏᴡɴᴇʀ  : <a href='http://t.me/cat_bio'>ᴘᴏɪᴤᴏɴ</a>
+➥ <b>ᴏᴡɴᴇʀ </b> : <a href='http://t.me/cat_bio'>ᴘᴏɪᴤᴏɴ</a>
 
-➥ ʟᴀɴɢᴜᴀɢᴇ : <a href='docs.python.org'>ᴘʏᴛʜᴏɴ</a>
+➥ <b>ʟᴀɴɢᴜᴀɢᴇ </b>: <a href='docs.python.org'>ᴘʏᴛʜᴏɴ</a>
 
-➥ ʟɪʙʀᴀʀʏ :  <a href='docs.pyrogram.org'>ᴘʏʀᴏɢʀᴀᴍ</a>
+➥ <b>ʟɪʙʀᴀʀʏ </b> :  <a href='docs.pyrogram.org'>ᴘʏʀᴏɢʀᴀᴍ</a>
 
-➥ ᴤᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href='http://t.me/kids_heaven_chat'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+➥ <b>ᴤᴏᴜʀᴄᴇ ᴄᴏᴅᴇ </b> : <a href='http://t.me/kids_heaven_chat'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
 """
     SOURCE_TXT = """<b>NOTE:</b>
