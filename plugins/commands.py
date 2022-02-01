@@ -1,4 +1,4 @@
-import os
+Iimport os
 import logging
 import random
 import asyncio
@@ -43,11 +43,10 @@ async def start(client, message):
     if len(message.command) != 2:
         buttons = [[
             InlineKeyboardButton('➕Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
-            ],[
-            InlineKeyboardButton('💥🍿', callback_data='help')
+            ],[ hhh
             InlineKeyboardButton('Mᴏᴠɪᴇs', url='t.me/Mx_Hud')
             InlineKeyboardButton('🍿💥', callback_data='help')
-            ],[
+            jjjj],[
             InlineKeyboardButton('Sᴛᴀᴛs', callback_data='stats'),
             InlineKeyboardButton('Aʙᴏᴜᴛ', callback_data='about')
         ]]
