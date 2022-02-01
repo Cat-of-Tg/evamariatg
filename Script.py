@@ -9,20 +9,12 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """ɴᴀᴍᴇ : <a href='https://t.me/addstickers/sp750c68b5c46efdbac504a91b0cbd2613_by_stckrRobot'>ᴛᴢᴜʏᴜ</a>
-
-    
 ➥ <b>ᴄʀᴇᴅɪᴛs </b>: <a href='tg://settings'>ʏᴏᴜ</a>
-
 ➥ <b>ᴇᴅɪᴛɪɴɢ </b> : <a href='http://t.me/cat_of_tg'>ᴄᴀᴛ ʙᴏɪ</a>
-
 ➥ <b>ᴏᴡɴᴇʀ </b> : <a href='http://t.me/cat_bio'>ᴘᴏɪᴤᴏɴ</a>
-
 ➥ <b>ʟᴀɴɢᴜᴀɢᴇ </b>: <a href='docs.python.org'>ᴘʏᴛʜᴏɴ</a>
-
 ➥ <b>ʟɪʙʀᴀʀʏ </b> :  <a href='docs.pyrogram.org'>ᴘʏʀᴏɢʀᴀᴍ</a>
-
 ➥ <b>ᴤᴏᴜʀᴄᴇ ᴄᴏᴅᴇ </b> : <a href='http://t.me/kids_heaven_chat'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-
 """
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
