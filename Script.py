@@ -6,8 +6,7 @@ class script(object):
 <b> Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ мx нυ∂ </b>
 
 """
-    HELP_TXT = """𝙷𝙴𝚈 {}
-𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
+    HELP_TXT = """<b>ᴏᴛʜɪɴɢ Hᴇʀᴇ Vʀᴏ, Jᴏɪɴ Mʏ Gʀᴏᴜᴘ @Movie_X_Zone Iғ Yᴏᴜ Hᴀᴠᴇ 🧠</b>."""
     ABOUT_TXT = """ɴᴀᴍᴇ : <a href='https://t.me/addstickers/sp750c68b5c46efdbac504a91b0cbd2613_by_stckrRobot'>ᴛᴢᴜʏᴜ</a>
 ➥ <b>ᴄʀᴇᴅɪᴛs </b>: <a href='tg://settings'>ʏᴏᴜ</a>
 ➥ <b>ᴇᴅɪᴛɪɴɢ </b> : <a href='http://t.me/cat_of_tg'>ᴄᴀᴛ ʙᴏɪ</a>
