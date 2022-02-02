@@ -157,7 +157,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     title = chat.title
                 except:
                     await query.message.edit_text("Make sure I'm present in your group!!", quote=True)
-                    return await query.answer('Piracy Is Crime')
+                    return await query.answer('loading..')
             else:
                 await query.message.edit_text(
                     "I'm not connected to any groups!\nCheck /connections or connect to any groups",
@@ -224,7 +224,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=keyboard,
             parse_mode="md"
         )
-        return await query.answer('Piracy Is Crime')
+        return await query.answer('Loading..')
     elif "connectcb" in query.data:
         await query.answer()
 
@@ -245,7 +245,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             )
         else:
             await query.message.edit_text('Some error occurred!!', parse_mode="md")
-        return await query.answer('Piracy Is Crime')
+        return await query.answer('Loading..')
     elif "disconnect" in query.data:
         await query.answer()
 
@@ -404,12 +404,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('➕Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
-        ], [
-            InlineKeyboardButton('💥🍿Mᴏᴠɪᴇs🍿💥', url='https://t.me/Mx_Hud')
+            InlineKeyboardButton('➕Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true') 
         ], [
             InlineKeyboardButton('Sᴛᴀᴛs', callback_data='stats'),
             InlineKeyboardButton('Aʙᴏᴜᴛ', callback_data='about')
+        ],[
+            InlineKeyboardButton('💥🍿Mᴏᴠɪᴇs🍿💥', url='https://t.me/Mx_Hud')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
